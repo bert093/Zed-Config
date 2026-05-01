@@ -1,0 +1,35 @@
+{
+  "collaboration_panel": {
+    "dock": "right",
+  },
+  "agent": {
+    "dock": "left",
+    "favorite_models": [],
+    "model_parameters": [],
+  },
+  "icon_theme": {
+    "mode": "light",
+    "light": "Zed (Default)",
+    "dark": "Zed (Default)",
+  },
+  "ui_font_size": 16,
+  "buffer_font_size": 15,
+  // "buffer_font_family": "FiraCode Nerd Font",
+  "theme": {
+    "mode": "dark",
+    "light": "Ayu Light",
+    "dark": "Catppuccin Mocha (Blur)",
+  },
+  // IMPORTANT SETTINGS
+  "tab_bar": { "show": false },
+  "title_bar": {
+    "show_project_items": false,
+    "show_branch_name": false,
+    "show_sign_in": false,
+    "show_user_menu": false,
+  },
+  "toolbar": { "breadcrumbs": false, "quick_actions": false },
+  "status_bar": {
+    "experimental.show": false,
+  },
+}
