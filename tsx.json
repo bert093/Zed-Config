@@ -1,0 +1,157 @@
+{
+  "Div": {
+    "prefix": "div",
+    "body": ["<div>$0</div>"]
+  },
+
+  "Paragraph": {
+    "prefix": "p",
+    "body": ["<p>$0</p>"]
+  },
+
+  "Span": {
+    "prefix": "span",
+    "body": ["<span>$0</span>"]
+  },
+
+  "Button": {
+    "prefix": "button",
+    "body": ["<button>$0</button>"]
+  },
+
+  "Section": {
+    "prefix": "section",
+    "body": ["<section>$0</section>"]
+  },
+
+  "Main": {
+    "prefix": "main",
+    "body": ["<main>$0</main>"]
+  },
+
+  "Header": {
+    "prefix": "header",
+    "body": ["<header>$0</header>"]
+  },
+
+  "Footer": {
+    "prefix": "footer",
+    "body": ["<footer>$0</footer>"]
+  },
+
+  "Article": {
+    "prefix": "article",
+    "body": ["<article>$0</article>"]
+  },
+
+  "Aside": {
+    "prefix": "aside",
+    "body": ["<aside>$0</aside>"]
+  },
+
+  "Navigation": {
+    "prefix": "nav",
+    "body": ["<nav>$0</nav>"]
+  },
+
+  "Image": {
+    "prefix": "img",
+    "body": ["<img src=\"$1\" alt=\"$2\" />"]
+  },
+
+  "Anchor": {
+    "prefix": "a",
+    "body": ["<a href=\"$1\">$0</a>"]
+  },
+
+  "Input": {
+    "prefix": "input",
+    "body": ["<input type=\"$1\" placeholder=\"$2\" />"]
+  },
+
+  "Textarea": {
+    "prefix": "textarea",
+    "body": ["<textarea>$0</textarea>"]
+  },
+
+  "Form": {
+    "prefix": "form",
+    "body": ["<form>$0</form>"]
+  },
+
+  "Label": {
+    "prefix": "label",
+    "body": ["<label>$0</label>"]
+  },
+
+  "Unordered List": {
+    "prefix": "ul",
+    "body": [
+      "<ul>",
+      "  <li>$0</li>",
+      "</ul>"
+    ]
+  },
+
+  "Ordered List": {
+    "prefix": "ol",
+    "body": [
+      "<ol>",
+      "  <li>$0</li>",
+      "</ol>"
+    ]
+  },
+
+  "List Item": {
+    "prefix": "li",
+    "body": ["<li>$0</li>"]
+  },
+
+  "Table": {
+    "prefix": "table",
+    "body": [
+      "<table>",
+      "  <thead>",
+      "    <tr>",
+      "      <th>$1</th>",
+      "    </tr>",
+      "  </thead>",
+      "  <tbody>",
+      "    <tr>",
+      "      <td>$0</td>",
+      "    </tr>",
+      "  </tbody>",
+      "</table>"
+    ]
+  },
+
+  "Heading 1": {
+    "prefix": "h1",
+    "body": ["<h1>$0</h1>"]
+  },
+
+  "Heading 2": {
+    "prefix": "h2",
+    "body": ["<h2>$0</h2>"]
+  },
+
+  "Heading 3": {
+    "prefix": "h3",
+    "body": ["<h3>$0</h3>"]
+  },
+
+  "Heading 4": {
+    "prefix": "h4",
+    "body": ["<h4>$0</h4>"]
+  },
+
+  "Heading 5": {
+    "prefix": "h5",
+    "body": ["<h5>$0</h5>"]
+  },
+
+  "Heading 6": {
+    "prefix": "h6",
+    "body": ["<h6>$0</h6>"]
+  }
+}
