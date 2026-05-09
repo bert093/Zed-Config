@@ -1,4 +1,10 @@
 {
+  "autosave": {
+    "after_delay": {
+      "milliseconds": 2000
+    }
+  },
+  "soft_wrap": "editor_width",
   "collaboration_panel": {
     "dock": "right",
   },
