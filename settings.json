@@ -5,6 +5,8 @@
     }
   },
   "soft_wrap": "editor_width",
+  "format_on_save": "off",
+  "tab_size": 2,
   "collaboration_panel": {
     "dock": "right",
   },
