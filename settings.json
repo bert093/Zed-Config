@@ -41,4 +41,16 @@
   "status_bar": {
     "experimental.show": false,
   },
+  "theme_overrides": {
+    "Catppuccin Mocha (Blur)": {
+      "syntax": {
+        "attribute": {
+          "color": "#55C1FFFF"
+        }
+      }
+    }
+  },
+  "experimental.theme_overrides": {
+    "background.appearance": "transparent"
+  }
 }
