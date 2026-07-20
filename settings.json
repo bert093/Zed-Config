@@ -48,6 +48,15 @@
           "color": "#55C1FFFF"
         }
       }
+    },
+    "Catppuccin Espresso (Blur) [Light]": {
+      "title_bar.background": "#000000AA",
+      "background": "#000000AA",
+      "syntax": {
+        "attribute": {
+          "color": "#55C1FFFF"
+        }
+      }
     }
   },
   "experimental.theme_overrides": {
