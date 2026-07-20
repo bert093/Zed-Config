@@ -9,3 +9,6 @@ My personal Zed Editor config file
 #### Catppuccin Mocha (Blur) "transparent"
 
 ![Catppuccin Blur Extension](image-transparent.png)
+
+#### Catppuccin Espresso (Blur) [Light] from Hyprland
+![Catppuccin Espressor (Blur) [Light]](image-hyprland.png)
