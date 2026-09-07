@@ -30,7 +30,14 @@
     "dark": "Catppuccin Mocha (Blur)",
   },
   // IMPORTANT SETTINGS
-  "tab_bar": { "show": false },
+  // "tab_bar": { "show": false },
+  "tab_bar": {
+    "show_tab_bar_buttons": false,
+  },
+  "tabs": {
+    "file_icons": true,
+    "git_status": true,
+  },
   "title_bar": {
     "show_project_items": false,
     "show_branch_name": false,
