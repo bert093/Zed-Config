@@ -9,17 +9,17 @@
   "use_on_type_format": false,
   "tab_size": 2,
   "collaboration_panel": {
-    "dock": "right",
+    "dock": "right"
   },
   "agent": {
     "dock": "left",
     "favorite_models": [],
-    "model_parameters": [],
+    "model_parameters": []
   },
   "icon_theme": {
     "mode": "light",
     "light": "Zed (Default)",
-    "dark": "Zed (Default)",
+    "dark": "Zed (Default)"
   },
   "ui_font_size": 16,
   "buffer_font_size": 15,
@@ -27,22 +27,22 @@
   "theme": {
     "mode": "dark",
     "light": "Ayu Light",
-    "dark": "Catppuccin Mocha (Blur)",
+    "dark": "Catppuccin Mocha (Blur)"
   },
   // IMPORTANT SETTINGS
   // "tab_bar": { "show": false },
   "tab_bar": {
-    "show_tab_bar_buttons": false,
+    "show_tab_bar_buttons": false
   },
   "tabs": {
     "file_icons": true,
-    "git_status": true,
+    "git_status": true
   },
   "title_bar": {
     "show_project_items": false,
     "show_branch_name": false,
     "show_sign_in": false,
-    "show_user_menu": false,
+    "show_user_menu": false
   },
   "toolbar": { "breadcrumbs": false, "quick_actions": false },
   "status_bar": {

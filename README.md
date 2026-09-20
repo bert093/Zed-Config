@@ -1,6 +1,9 @@
 # Zed-Config
 My personal Zed Editor config file
 
+> [!TIP]
+> [Check here](shortcuts/README.md) to see the Zed keyboard shortcuts.
+
 ### Preview
 #### Catppuccin Mocha (Blur)
 
