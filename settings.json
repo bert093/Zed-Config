@@ -48,6 +48,11 @@
   "status_bar": {
     "experimental.show": false,
   },
+  "diagnostics": { // SHOW ERROR ON LINE
+    "inline": {
+      "enabled": true
+    }
+  },
   "theme_overrides": {
     "Catppuccin Mocha (Blur)": {
       "syntax": {
