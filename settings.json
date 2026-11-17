@@ -34,6 +34,7 @@
   "tab_bar": {
     "show_tab_bar_buttons": false
   },
+  "text_rendering_mode": "subpixel",
   "tabs": {
     "file_icons": true,
     "git_status": true
